@@ -7,7 +7,7 @@ A new Flutter project.
 This is a demo flutter app for machine learning using ncnn\
 ## Thanks to
 nihui https://github.com/nihui/ncnn-android-squeezenet
-Installation (ultra super ultimate easy):
+## Installation (ultra super ultimate easy):
 1. Clone repo
 2. Build
    
